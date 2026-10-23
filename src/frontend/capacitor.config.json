@@ -1,0 +1,10 @@
+{
+  "appId": "com.femtost.dacap",
+  "appName": "frontend",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
